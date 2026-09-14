@@ -1,0 +1,4 @@
+[general]
+# This tells Streamlit Cloud where your app is
+# Used when deploying frontend/ folder as a Streamlit Cloud app
+entrypoint = "frontend/app.py"
